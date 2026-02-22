@@ -28,3 +28,4 @@ public class ThreadExample4 {
         System.out.printf("결과: " + count);
     }
 }
+
